@@ -1,0 +1,8 @@
+.container .text {    font-size: 20px;
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
+
+/* or replace .container .text by div p */
